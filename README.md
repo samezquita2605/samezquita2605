@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Sebastian Amezquita.
+- 👀 I’m interested in Geographic Information Systems, Geology, and Web development.
+- 🌱 I’m currently learning advanced concepts in JS, React, PHP, ArcGIS for API for JavaScript, RDBMS (SQL, database design, Oracle).
+- 💞️ I’m looking to collaborate on GIS projects.
